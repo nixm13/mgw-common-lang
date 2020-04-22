@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>kr.pe.moongwiwoo.utils</groupId>
 	<artifactId>mgw-common-util</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<description>MGW Common Util</description>
 	<url>https://git.moongwiwoo.pe.kr/Maven-Deploy-Project/mgw-common-util</url>
 	<name>MGW Common Util</name>
